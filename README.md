@@ -1,0 +1,1 @@
+To start the backend, "node server.js" - it will load the start file
